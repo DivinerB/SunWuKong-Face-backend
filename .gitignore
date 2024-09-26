@@ -1,0 +1,4 @@
+__pycache__/
+result_uploads
+uploads
+shape_predictor_68_face_landmarks.dat
